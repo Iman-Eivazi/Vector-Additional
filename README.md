@@ -49,6 +49,7 @@ Use `git` to clone the project to your local machine:
 git clone https://github.com/iman-eivazi/cuda-vector-add.git
 cd cuda-vector-add
 If you are not using Git, you can also download the repository as a ZIP from GitHub and extract it manually into a folder named cuda-vector-add.
+```
 
 2. (Optional) Create and activate a virtual environment
 It is recommended to use a virtual environment to keep dependencies isolated:
