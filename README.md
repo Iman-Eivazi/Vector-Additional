@@ -116,7 +116,7 @@ Default: auto
 Number of repetitions for each implementation when measuring timing.
 Default: 3
 
-## Example:
+Example:
 
 python src/cuda_vector_add.py --size 5000000 --device auto --repeats 5
 This command runs the demo with vector size 5,000,000, attempts to use the GPU if available, and repeats each measurement 5 times to obtain more stable timing statistics.
