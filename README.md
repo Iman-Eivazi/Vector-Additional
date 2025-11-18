@@ -1,4 +1,4 @@
-# Vector-Additional
+# Vector-Addition
 
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![GPU: Optional](https://img.shields.io/badge/GPU-CUDA%20(optional)-orange.svg)
